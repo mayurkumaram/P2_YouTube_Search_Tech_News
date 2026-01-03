@@ -38,7 +38,7 @@ A screenshot named `result.png` is generated locally after the results page load
 ## 🏗 Project Structure
 
 ```
-P1_Search_YouTube/
+P2_YouTube_Search_Tech_News/
 ├── pages/
 │   ├── base_page.py        # Common browser actions
 │   └── feature_page.py    # YouTube-specific actions
